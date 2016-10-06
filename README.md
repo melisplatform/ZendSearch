@@ -9,3 +9,5 @@ php composer.phar install
 
 At that point, follow the instructions in the documentation folder for actual
 usage of the component. (Documentation is forthcoming.)
+
+**This project is a fork of [zendframework/zendsearch](https://github.com/zendframework/ZendSearch)**
